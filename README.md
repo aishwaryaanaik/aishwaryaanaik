@@ -9,7 +9,7 @@
   
 I’m an Electronics & Communication Engineering student who loves turning ideas into impactful projects.  
 I’m deeply interested in **FPGA design, Embedded Systems, IoT**, and I enjoy exploring how hardware and software can come together to solve real-world problems.  
-Beyond academics, I love **experimenting with new technologies, building projects that add value to people’s lives, and continuously learning something new every day**.  
+I love **experimenting with new technologies, building projects that add value to people’s lives, and continuously learning something new every day**.  
 
 ## Currently working on  
 - **Real-time object detection and hardware acceleration** using YOLO on raspberry pi and FPGA.  
