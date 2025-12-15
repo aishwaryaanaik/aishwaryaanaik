@@ -40,25 +40,7 @@ I love **experimenting with new technologies, building projects that add value t
 
 
 
-##  Featured Projects  
--  [**Real-time Over-steering Detection of Vehicle**](https://github.com/aishwaryaanaik/Real-time-oversteering-detection-ADAS/blob/main/Docs/Real%20time%20oversteering%20detection.pdf)  
-  *Cost-efficient IoT system using Arduino Nano BLE Sense + ESP32 for ADAS safety.*  
 
--  [**Indian Sign Language Recognition using Custom CNN**](https://github.com/aishwaryaanaik/Indian-sign-language-recognition-using-custom-CNN/blob/main/Docs/Paper.pdf)  
-  *Achieved 90% validation accuracy and integrated multilingual translation for accessibility.*  
-
--  **FPGA-based Edge Detection using 2D Convolution**  
-  *Implemented Sobel edge detection on PYNQ-Z2 using Vitis HLS & Vivado.*  
-
--  **Real-time Object Detection using YOLOv7**  
-  *Benchmarking FPS, latency, and power on Raspberry Pi vs FPGA.*  
-
-- **Custom VLSI Gate Design (OAI231)**  
-  *Designed & optimized low-power CMOS/Pseudo-NMOS logic gate in Cadence.*  
-
-## Publications  
-- [Real-time Over-steering Detection of Vehicle using Embedded System Integration (ICT4SD 2025)](https://github.com/aishwaryaanaik/Real-time-oversteering-detection-ADAS/blob/main/Docs/Real%20time%20oversteering%20detection.pdf)  
-- [Indian Sign Language Recognition using Custom CNN (INCET 2025)](https://github.com/aishwaryaanaik/Indian-sign-language-recognition-using-custom-CNN/blob/main/Docs/Paper.pdf)  
 
 
 
